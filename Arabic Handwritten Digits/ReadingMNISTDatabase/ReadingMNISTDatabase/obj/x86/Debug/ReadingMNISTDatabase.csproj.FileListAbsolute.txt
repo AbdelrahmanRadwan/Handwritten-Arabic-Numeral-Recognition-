@@ -1,0 +1,49 @@
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+C:\Users\MGawish\Desktop\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+D:\Teaching\Teaching Materials\First Semester\2012-2013\Fourth Year (CS)\Pattern Recognition\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csproj.GenerateResource.Cache
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2012-2013 -CS- Prof.Mostafa Gad\PR Project\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csproj.GenerateResource.Cache
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+D:\Teaching\Teaching Materials\Courses\Pattern Recognition\2016-2017 -CS- Prof.Mostafa Gad (Speech Processing)\Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csproj.GenerateResource.Cache
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.exe
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.pdb
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.exe
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\ReadingMNISTDatabase.pdb
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csprojResolveAssemblyReference.cache
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Form1.resources
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.Properties.Resources.resources
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\obj\x86\Debug\ReadingMNISTDatabase.csproj.GenerateResource.Cache
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\MathNet.Numerics.dll
+E:\Study & Learn\Materials\NEW\Speech\Final Project\Final Project\Arabic Handwritten Digits\ReadingMNISTDatabase\ReadingMNISTDatabase\bin\Debug\MathNet.Numerics.xml
